@@ -51,6 +51,7 @@ function onSelectBreed(event) {
       </div>`;
       catInfo.classList.remove('is-hidden');
     })
+
     .catch(onFetchError);
 }
 
