@@ -22,5 +22,3 @@ export function fetchCatByBreed(breedId) {
     return response.json();
   });
 }
-console.log(fetchBreeds());
-console.log(fetchCatByBreed(breedId));
