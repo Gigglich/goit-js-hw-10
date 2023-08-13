@@ -46,10 +46,7 @@ h1 {
   padding: 20px;
   display: flex;
   justify-content: center;
-  flex-wrap: wrap;
   gap: 40px;
-  background-color: #e5f3f2;
-  border: 1px solid #0d161b;
 }
 
 .box-img {
